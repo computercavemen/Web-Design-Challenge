@@ -1,0 +1,44 @@
+#navbarSupportedContent{
+    position:fixed;
+    left:80%;
+  }
+  h1{
+    color:white;
+    background:turquoise;
+    font-family: 'Times New Roman', Times, serif
+  }
+
+ #latbox{
+    color: white;
+    background-color:#4aaaa5;
+  }
+
+.container{
+  padding-top: 5px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 5px;
+}
+
+h3{
+  color: #4aaaa5;
+  font-family:'Times New Roman', Times, serif;
+}
+
+h4{
+  color: #4aaaa5;
+  font-family:'Times New Roman', Times, serif;
+  text-align: center;
+  text-decoration: solid;
+  font-weight: 900;
+}
+
+#test{
+  font-weight: bolder;
+}
+
+p{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+  @media(max-width: 750px)
