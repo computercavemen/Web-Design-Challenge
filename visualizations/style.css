@@ -13,12 +13,12 @@
     background-color:#4aaaa5;
   }
 
-.container{
+/* .container{
   padding-top: 5px;
   padding-left: 0px;
   padding-right: 0px;
   padding-bottom: 5px;
-}
+} */
 
 h3{
   color: #4aaaa5;
@@ -41,4 +41,5 @@ p{
   font-family:'Times New Roman', Times, serif;
   font-size: 20px;
 }
-  @media(max-width: 750px)
+
+@media(max-width: 750px)
